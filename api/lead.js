@@ -26,6 +26,7 @@ module.exports = async function handler(req, res) {
     utm_source: 200,
     utm_medium: 200,
     utm_campaign: 200,
+    utm_adgroup: 200,
     utm_term: 200,
     utm_content: 200,
   };
